@@ -1,4 +1,3 @@
-![code](https://user-images.githubusercontent.com/108637829/226499529-b72f0a87-9759-4187-87ae-d079a613e3fb.png)
 Objetivo desse desafio era criar uma lista ( array ) de estudantes, com nome e duas notas (objetos), e criar um função para calcular a média e na sequencia verificar se a média foi maior que 7 mostrar uma mensagem na tela dizendo que o aluno foi aprovado ou reprovado.
 
 
